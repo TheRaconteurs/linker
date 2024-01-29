@@ -1,0 +1,8 @@
+pyppeteer==1.0.2
+python-dotenv==0.21.0
+schedule==1.1.0
+pyTelegramBotAPI==4.7.1
+aioschedule==0.5.2
+aiosqlite==0.18.0
+aiogram==2.23.1
+pytz==2022.7
